@@ -1,0 +1,17 @@
+h1 {
+    color: navy;
+  }
+
+  body {
+    background-image: url("./images/background.jpg" );
+    background-color: #cccccc;
+    font-family: cursive;
+   }
+
+   .mf{
+       background-color: yellow;
+   }
+
+   #standout{
+       font-size: x-large;
+   }
